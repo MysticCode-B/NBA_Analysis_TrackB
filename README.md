@@ -67,11 +67,8 @@ pathlib
  
 | Contributor | Roles |
 |-------------|-------|
-| [Name] | Conceptualization, Methodology, Writing – Original Draft |
-| [Name] | Data Curation, Software, Formal Analysis |
-| [Name] | Visualization, Writing – Review & Editing |
-| [Name] | Investigation, Writing – Review & Editing |
- 
+| [Brandon Cartagena] | Data Curation, Supervision, Software, Resource, Writing - Review & Editing |
+| [Shiv Patel] | Visualization, Formal Analysis, Writing - Review & Editing |
 ---
  
 ## 📄 License
