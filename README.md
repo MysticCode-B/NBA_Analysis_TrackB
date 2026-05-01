@@ -73,4 +73,4 @@ pathlib
  
 ## 📄 License
  
-This project is for academic purposes only. Data sourced from [Basketball Reference](https://www.basketball-reference.com/) and [NBA Dataset](https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats/data) via Kaggle.
+This project is for academic purposes only. Data glossary from [Basketball Reference](https://www.basketball-reference.com/) and [NBA Dataset](https://www.kaggle.com/datasets/sumitrodatta/nba-aba-baa-stats/data) via Kaggle.
