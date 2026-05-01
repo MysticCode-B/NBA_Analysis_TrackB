@@ -69,6 +69,7 @@ pathlib
 |-------------|-------|
 | [Brandon Cartagena] | Data Curation, Supervision, Software, Resource, Writing - Review & Editing |
 | [Shiv Patel] | Visualization, Formal Analysis, Writing - Review & Editing |
+| [Sabir Shakir] | Review, Organization |
 ---
  
 ## 📄 License
